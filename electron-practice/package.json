@@ -1,0 +1,17 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "A simple application.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Abhishek B Jangid",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.9"
+  },
+  "dependencies": {
+    "electron-progressbar": "^1.1.0"
+  }
+}
